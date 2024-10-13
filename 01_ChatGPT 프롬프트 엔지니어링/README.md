@@ -2,6 +2,6 @@
 
 
 ChatGPT 커뮤니티<br>
-https://gptable.net/
-https://cafe.naver.com/mschatgpt
-https://www.prpt.ai/
+https://gptable.net/ <br>
+https://cafe.naver.com/mschatgpt <br>
+https://www.prpt.ai/ <br>
