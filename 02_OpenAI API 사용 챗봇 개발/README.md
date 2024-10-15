@@ -36,3 +36,15 @@ https://github.com/openai/openai-cookbook/blob/main/examples/Assistants_API_over
 https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-7.0.14-signed.msi
 <br>
 <br>
+
+------------------------------------------------------------------------------------------
+[4] Anconda 다운로드 경로  :   <br>
+https://www.anaconda.com/download/success
+
+[5] 구글 Colab : <br>
+https://colab.research.google.com/
+
+[6] 구글 Colab 사용법 : <br>
+https://creatorjo.tistory.com/entry/%EA%B5%AC%EA%B8%80-%EC%BD%94%EB%9E%A9colab-%EA%B8%B0%EC%B4%88-%EC%82%AC%EC%9A%A9%EB%B2%95
+
+
